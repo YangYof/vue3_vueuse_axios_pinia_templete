@@ -1,4 +1,4 @@
-### Vue 3 + TypeScript + Vite + pinia + axios templeted
+# Vue 3 + TypeScript + Vite + pinia + axios templeted
 
 ## 套件使用：
 | 名稱 | 版本 |

@@ -6,5 +6,5 @@ router-view
 </script>
 
 <style lang="scss">
-@import '@/styles/common.scss';
+@import '@/styles/_variables.scss';
 </style>
